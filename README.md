@@ -43,4 +43,10 @@ Hi there, I'm **Mouleeswaran** 👋<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=MOULEESWARAN-25&icon=6&color=1)](https://visitcount.itsvg.in)
 
+### Leetcode Info
+![LeetCode Stats](https://leetcard.jacoblin.cool/moulee25?theme=dark&font=Snippet&ext=heatmap)
+<p align="left">  
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+  <a href="https://leetcode.com/u/mithra_612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="50-days-of-coding" height="150" width="150" /></a>
+</p>
 
