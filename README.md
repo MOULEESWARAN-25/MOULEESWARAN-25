@@ -18,7 +18,7 @@
   • Creating real-world impact through fintech and scam detection platforms
 
 - **Quick Insight**  
-  My projects have increased e-commerce sales, enhanced financial awareness, and earned national-level recognition. I believe in using code to solve meaningful problems with measurable outcomes.
+  My projects have increased e-commerce sales, enhanced financial awareness. I believe in using code to solve meaningful problems with measurable outcomes.
 
 
 
