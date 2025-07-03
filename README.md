@@ -1,8 +1,8 @@
 # About Me:
 
 - **Currently Exploring**  
-  Building scalable full-stack applications with real-time AI/ML integration. Recently completed projects include an AI-powered Shopify app and a second-hand car marketplace platform with smart pricing.
-
+  Building scalable full-stack applications with real-time AI/ML integration. Recently completed projects include an AI-powered Shopify app.
+  
 - **Open to Collaborate On**  
   AI-driven web platforms, fintech solutions, and impactful open-source projects focused on innovation and usability.
 
