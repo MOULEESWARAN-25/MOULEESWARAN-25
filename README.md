@@ -11,7 +11,7 @@ I value strong fundamentals, clear problem-solving, and ownership of work. I enj
 - Software engineering intern with experience in an early-stage startup environment  
 - Two-time hackathon winner and finalist in multiple national-level hackathons  
 - Finalist, Smart India Hackathon 2024  
-- Solved 700+ data structures and algorithms problems across platforms  
+- Solved 600+ data structures and algorithms problems across platforms  
 
 ---
 
