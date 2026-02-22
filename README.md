@@ -45,7 +45,7 @@ I value strong fundamentals, clear problem-solving, and ownership of work. I enj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
 </div>
 
-<h2 align="left">🔗 Links</h2>
+<h2 align="left">Links</h2>
 <p align="left">
   <a href="https://drive.google.com/file/d/1LCKXfunr_QUG12m583OPqxEtVAfLPnYD/view" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="45" alt="Resume" />
