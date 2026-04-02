@@ -6,7 +6,7 @@
   <img src="https://github.com/user-attachments/assets/b0d2f059-7010-4d0b-800a-6f37e0f3133b" width = "120"/>
 </p>
 
-<img align="right" alt="Profile" width="320" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
+<img align="right" alt="Profile" width="220" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=2EA043&background=00000000&vCenter=true&width=650&lines=700%2B+DSA+Problems;65%2B+Coding+Contests;Highest+Contest+Rating%3A+1613;500%2B+GitHub+Contributions;2x+Hackathon+Winner;SIH+Finalist" />
