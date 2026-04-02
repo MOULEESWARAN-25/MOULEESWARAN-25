@@ -137,28 +137,33 @@
 </p>
 
 </div>
-
-</table><h2 align="left">Links</h2>
+<p>
+  <img src="https://github.com/user-attachments/assets/49f00a3e-d813-4aa1-996f-48907bd96cef" width = "200"/>
+</p>
 <p align="left">
- <div align="left">
-  <a href="https://drive.google.com/file/d/1LCKXfunr_QUG12m583OPqxEtVAfLPnYD/view">
-    <img src="https://cdn.simpleicons.org/googledrive/4285F4" height="45" alt="Resume" style="display:inline-block; vertical-align:middle;" />
-  </a>
-  
-  <a href="https://moulee-portfolio.vercel.app/">
-    <img src="https://cdn.simpleicons.org/vercel/white" height="50" alt="Portfolio" style="display:inline-block; vertical-align:middle;" />
-  </a>
-  
-  <a href="https://leetcode.com/u/moulee25/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode" style="display:inline-block; vertical-align:middle;" />
-  </a>
-  
-  <a href="https://linkedin.com/in/moulee25">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="LinkedIn" style="display:inline-block; vertical-align:middle;" />
-  </a>
-  
-  <a href="mailto:moulee201@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="45" alt="Email" style="display:inline-block; vertical-align:middle;" />
-  </a>
-</div>
+
+<a href="https://drive.google.com/file/d/1LCKXfunr_QUG12m583OPqxEtVAfLPnYD/view" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+<a href="https://moulee-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/moulee25/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://linkedin.com/in/moulee25" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:moulee201@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@Adrift1658/videos" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </p>
