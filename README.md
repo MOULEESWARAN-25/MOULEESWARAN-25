@@ -61,6 +61,18 @@
 </tr>
 </table>
 
+<p>
+  <img src="https://github.com/user-attachments/assets/e26ac7f9-f7b3-40b4-9fe4-71435f3d14a5" width = "150"/>
+</p >
+
+
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOULEESWARAN-25&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOULEESWARAN-25&layout=compact&theme=dark&hide_border=true" height="160" style="margin-left: 12px;"/>
+</p>
+
+
+
 <div align="left">
   <p>  </p>
   <p>  </p>
