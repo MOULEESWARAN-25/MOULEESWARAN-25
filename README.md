@@ -4,6 +4,18 @@ I’m Mouleeswaran, a third-year Computer Science and Engineering undergraduate 
 
 I value strong fundamentals, clear problem-solving, and ownership of work. I enjoy learning by building, working under constraints, and improving through feedback. My experiences across internships, hackathons, and projects have helped me develop the ability to deliver practical solutions in fast-paced environments.
 
+## Internship Experience
+
+**Software Engineering Intern**  
+**EQ-REV (Hybrid)**  
+*Mar 2025 – May 2025*  
+[View Internship Certificate](https://drive.google.com/drive/folders/1JzguXDqXfRVsZBH-st0nh0Nne2a6KIcC)
+
+| Project | Tech Stack | Work |
+|--------|-----------|------|
+| **Shopify Collection Optimization App** | ![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white) | • Engineered a Shopify app for automated collection ranking.<br>• Implemented **Best-Seller Boost logic** based on stock & demand.<br>• Built UI aligned with Shopify standards. |
+| **EQ-REV Official Website** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=flat) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF007C?style=flat) | • Designed & developed a clean, responsive UI.<br>• Built components using **Aceternity UI** with smooth animations via **Framer Motion**.<br>• Improved brand presence and user engagement. |
+
 # Tech Stack
 
 <table align="center">
