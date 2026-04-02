@@ -8,23 +8,15 @@
 
 <img align="right" alt="Profile" width="320" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
 
-### Profile
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=2EA043&background=00000000&vCenter=true&width=650&lines=700%2B+DSA+Problems;65%2B+Coding+Contests;Highest+Contest+Rating%3A+1613;500%2B+GitHub+Contributions;2x+Hackathon+Winner;SIH+Finalist" />
+</p>
 
-**Name**        Mouleeswaran P  
-**Role**        Full Stack Developer  
-**Education**   B.E. Computer Science Engineering (2027)  
-**Institution** Bannari Amman Institute of Technology  
-**Location**    India 🇮🇳  
-
-### Currently Building
-
-- AI-powered platforms & SaaS products  
-- Backend systems with scalable architecture  
-- Build with purpose
-  
-### Mindset
-
-> Build fast. Think deep. Scale smart.
+- CS undergraduate focused on **web development & AI-integration**
+- Learn by building → iterate fast and improve through feedback
+- Interested in building with **data-driven applications and backend systems**
+- Worked with **RAG, ML, and real-world use cases**
+- Strong in **DSA, problem solving, and core CS fundamentals**
 
 <br clear="right"/>
 
