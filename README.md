@@ -1,5 +1,8 @@
-## About Me
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1a14af9-f271-4e52-94e0-227a5b198250" width="100%" />
+</p>
+## About Me
 I’m Mouleeswaran, a third-year Computer Science and Engineering undergraduate focused on building software solutions that create real-world impact.
 
 I value strong fundamentals, clear problem-solving, and ownership of work. I enjoy learning by building, working under constraints, and improving through feedback. My experiences across internships, hackathons, and projects have helped me develop the ability to deliver practical solutions in fast-paced environments.
