@@ -9,13 +9,13 @@
 </p>
 
 <!-- RIGHT IMAGE -->
-<img align="right" alt="Profile" width="200" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
+<img align="right" alt="Profile" width="250" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
 
 <!-- LEFT CONTENT -->
 <div style="max-width: 65%;">
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=2EA043&background=00000000&vCenter=true&width=650&lines=700%2B+DSA+Problems;65%2B+Coding+Contests;Highest+Contest+Rating%3A+1613;500%2B+GitHub+Contributions;2x+Hackathon+Winner;SIH+Finalist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=2EA043&background=00000000&vCenter=true&width=650&lines=700%2B+DSA+Problems;65%2B+Coding+Contests;Highest+Contest+Rating%3A+1613;500%2B+GitHub+Contributions;2x+Hackathon+Winner;SIH+Finalist" width="550"/>
 </p>
 
 - CS undergraduate focused on **web development & AI-integration**
@@ -84,8 +84,8 @@
 <div style="height: 24px;"></div>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOULEESWARAN-25&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOULEESWARAN-25&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOULEESWARAN-25&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOULEESWARAN-25&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
