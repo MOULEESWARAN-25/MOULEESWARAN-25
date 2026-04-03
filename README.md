@@ -1,17 +1,17 @@
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/c1a14af9-f271-4e52-94e0-227a5b198250" width="100%" />
 </p>
 
 <div style="height: 24px;"></div>
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/b0d2f059-7010-4d0b-800a-6f37e0f3133b" width="120"/>
 </p>
 
 <!-- RIGHT IMAGE -->
 <img align="right" alt="Profile" width="250" src="https://github.com/user-attachments/assets/154098a0-6861-4299-aed0-4e4e101f0d2b"/>
 
-<!-- LEFT CONTENT -->
+<!-- LEFT CONTENT (UNCHANGED ALIGNMENT INSIDE) -->
 <div style="max-width: 65%;">
 
 <p>
@@ -31,7 +31,7 @@
 <div style="height: 40px;"></div>
 
 <!-- EXPERIENCE -->
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/6e4361d8-83be-42d1-9c2d-e4b5b0a6f4c7" width="300"/>
 </p>
 
@@ -40,59 +40,59 @@
 **Software Engineering Intern**  
 **EQ-REV (Hybrid)**  
 *Mar 2025 – May 2025*  
-[View Internship Certificate](https://drive.google.com/drive/folders/1JzguXDqXfRVsZBH-st0nh0Nne2a6KIcC)
+[View Internship Certificate](https://drive.google.com/drive/folders/1JzguXDqXfRVsZBH-st0nh0Nne2a6KIc)
 
 | Project | Tech Stack | Work |
 |--------|-----------|------|
 | **Shopify Collection Optimization App** | ![Remix](https://img.shields.io/badge/Remix-000000?style=flat&logo=remix&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white) | • Engineered a Shopify app for automated collection ranking.<br>• Implemented **Best-Seller Boost logic** based on stock & demand.<br>• Built UI aligned with Shopify standards. |
-| **EQ-REV Official Website** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=flat) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF007C?style=flat) | • Designed & developed a clean, responsive UI.<br>• Built components using **Aceternity UI** with smooth animations via **Framer Motion**.<br>• Improved brand presence and user engagement. |
+| **Website Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Aceternity UI](https://img.shields.io/badge/Aceternity_UI-000000?style=flat) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF007C?style=flat) | • Designed & developed a clean, responsive UI.<br>• Built components using **Aceternity UI** with smooth animations via **Framer Motion**.<br>• Improved brand presence and user engagement. |
 
 <div style="height: 40px;"></div>
 
 <!-- LIVE LINKS -->
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/5de0e58b-7ac9-4f3d-8df8-91069aad6169" width="120"/>
 </p>
 
 <div style="height: 20px;"></div>
 
-<table align="center">
-<tr>
-<td align="center"><a href="https://moulee-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://cashflo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/💰 CashFlo-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://van-adhikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🗺️ VanAdhikar-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://electricity-prediction.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚡ Electricity-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://satisfyiq.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🧠 SatisfyIQ-161B22?style=for-the-badge" /></a></td>
-</tr>
+<!-- BADGES ONLY (NO TABLE) -->
+<p>
+<a href="https://moulee-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-161B22?style=for-the-badge" /></a>
+<a href="https://cashflo-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/💰 CashFlo-161B22?style=for-the-badge" /></a>
+<a href="https://van-adhikar.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🗺️ VanAdhikar-161B22?style=for-the-badge" /></a>
+<a href="https://electricity-prediction.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/⚡ Electricity-161B22?style=for-the-badge" /></a>
+<a href="https://satisfyiq.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🧠 SatisfyIQ-161B22?style=for-the-badge" /></a>
 
-<tr>
-<td align="center"><a href="https://growth-guardian.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📈 GrowthGuardian-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://pit-vision.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/👁️ PITVision-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://civic-lens-app.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🏙️ CivicLens-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="https://retail-analyzer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🛒 RetailAnalyzer-161B22?style=for-the-badge" /></a></td>
-<td align="center"><a href="#"><img src="https://img.shields.io/badge/🚧 ComingSoon-1f1f1f?style=for-the-badge" /></a></td>
-</tr>
-</table>
+<a href="https://growth-guardian.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/📈 GrowthGuardian-161B22?style=for-the-badge" /></a>
+<a href="https://pit-vision.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/👁️ PITVision-161B22?style=for-the-badge" /></a>
+<a href="https://civic-lens-app.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🏙️ CivicLens-161B22?style=for-the-badge" /></a>
+<a href="https://retail-analyzer.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🛒 RetailAnalyzer-161B22?style=for-the-badge" /></a>
+<!-- <a href="#"><img src="https://img.shields.io/badge/🚧 ComingSoon-1f1f1f?style=for-the-badge" /></a> -->
+</p>
 
 <div style="height: 40px;"></div>
 
 <!-- GITHUB STATS -->
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/e26ac7f9-f7b3-40b4-9fe4-71435f3d14a5" width="150"/>
 </p>
 
 <div style="height: 24px;"></div>
 
-<p align="center">
+<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MOULEESWARAN-25&theme=github_dark" height="150"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MOULEESWARAN-25&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
+<!-- CONNECT WITH ME -->
+<p>
   <img src="https://github.com/user-attachments/assets/49f00a3e-d813-4aa1-996f-48907bd96cef" width="200"/>
 </p>
 
-<p align="center">
+<div style="height: 10px;"></div>
+
+<p>
 <a href="https://drive.google.com/file/d/1LCKXfunr_QUG12m583OPqxEtVAfLPnYD/view" target="_blank">
   <img src="https://img.shields.io/badge/Resume-2EA043?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
