@@ -40,7 +40,7 @@
 **Software Engineering Intern**  
 **EQ-REV (Hybrid)**  
 *Mar 2025 – May 2025*  
-[View Internship Certificate](https://drive.google.com/drive/folders/1JzguXDqXfRVsZBH-st0nh0Nne2a6KIc)
+[View Internship Certificate](https://drive.google.com/file/d/1iJE8HtEmI4lzXCDaVjOZEuMinQtu_2kK/view?usp=drive_link)
 
 | Project | Tech Stack | Work |
 |--------|-----------|------|
